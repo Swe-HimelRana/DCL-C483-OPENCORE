@@ -3,7 +3,7 @@
 Device: **Daffodil International University** Free Laptop for students
 Model: (Daffodil Computers Limited)  - **DCL C483**
 
-Configuration Version: **2023.13.0**
+Configuration Version: **2023.7.13**
 
 Opencore Version:  **Opencore 0.9.3**
 
